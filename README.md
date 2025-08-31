@@ -1,2 +1,2 @@
 # User-Persona
-- <img width="1024" height="1536" alt="Image" src="https://github.com/user-attachments/assets/a9d075d4-0faf-4727-970d-a5419ba8af7f" />
+- <img width="1024" height="1052" alt="Image" src="https://github.com/user-attachments/assets/e33f696f-7805-4474-88a6-edadeb87f186" />
